@@ -1,0 +1,8 @@
+.shape{
+    width: 300px;
+    background-color: aqua;
+    height: 400px;
+    margin: 200px 400px;
+    border: solid 1px;
+    border-radius: 10px;
+}
